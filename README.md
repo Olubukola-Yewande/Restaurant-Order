@@ -1,6 +1,6 @@
 # Restaurant-Order
 
-# Project Description
+## Project Description
 The main purpose of this project is to analyze the dataset, clean and give recommendations to the insights discovered. 
 Bee-eff is a classy restaurant located in the United States of America. It is the end of the first quarter of the year and the CEO employed a data analyst to help analyze the restaurant data and help give recommendations.
 
