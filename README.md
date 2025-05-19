@@ -14,5 +14,5 @@ In this project, the SQL queries used includes Joins, aggregate, count, common t
 
 ## Questions
 1. View the menu_items table and write a query to find the number of items on the menu
-2. ///SELECT COUNT(item_name) AS number_of_items
-    FROM menu_items///
+2. ''''SELECT COUNT(item_name) AS number_of_items
+    FROM menu_items
